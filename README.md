@@ -1,2 +1,0 @@
-# ReduxMultilevelStateChange
-Created with CodeSandbox
